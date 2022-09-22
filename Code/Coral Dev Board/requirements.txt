@@ -1,0 +1,6 @@
+numpy
+pandas
+argparse
+pydub
+librosa
+pycoral==2.0.0
